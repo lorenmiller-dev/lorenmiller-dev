@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Loren Miller</h1>
 <h3 align="center">A student Java Developer</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://64.media.tumblr.com/08680930d8348ecd845c99a4f5306605/tumblr_oq6e7dri9j1qf1qjho1_1280.gif”>
-
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/08680930d8348ecd845c99a4f5306605/tumblr_oq6e7dri9j1qf1qjho1_1280.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenmiller-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lorenmiller-dev" /> </p>
 
