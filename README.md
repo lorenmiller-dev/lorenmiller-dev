@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 🤝 I’m looking for help with **internship preparing**
-
 - 📫 How to reach me **lorenmiller.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
