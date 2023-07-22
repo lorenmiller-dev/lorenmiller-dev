@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Loren Miller</h1>
-<h3 align="center">A Backend Student Java Developer</h3>
+<h3 align="center">A Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenmiller-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lorenmiller-dev" /> </p>
 
-- 🌱 I’m currently learning **AWS and spring boot**
-
-- 🤝 I’m looking for help with **internship preparing**
-
+- 🌱 I’m currently learning **AWS, Software Architecture, and React.js**
 - 📫 How to reach me **lorenmiller.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
