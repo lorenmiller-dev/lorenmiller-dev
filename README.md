@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenmiller-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lorenmiller-dev" /> </p>
 
-- 🌱 I’m currently learning **AWS, Software Architecture, and React.js**
+- 🌱 I’m currently learning **AWS, Software Architecture, and React/Node.js**
 - 📫 How to reach me **lorenmiller.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
