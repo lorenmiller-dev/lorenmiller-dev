@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Loren Miller</h1>
-<h3 align="center">A Student Full-Stack Developer</h3>
+<h3 align="center">Student Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenmiller-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lorenmiller-dev" /> </p>
 
